@@ -25,3 +25,24 @@
         <a href="paket.html" class="btn">Lihat Paket</a>
         <a href="kontak.html" class="btn-outline">Hubungi Kami</a>
     </section>
+    <section class="fitur">
+        <h2>Kenapa Pilih Bekti Net?</h2>
+        <div class="fitur-grid">
+            <div class="fitur-item">
+                <h3>🌐 Kecepatan Tinggi</h3>
+                <p>Streaming, gaming, dan video call tanpa gangguan.</p>
+            </div>
+            <div class="fitur-item">
+                <h3>🔧 Instalasi Cepat</h3>
+                <p>Tim teknisi kami siap pasang dalam waktu 1x24 jam.</p>
+            </div>
+            <div class="fitur-item">
+                <h3>💬 Dukungan Pelanggan 24/7</h3>
+                <p>Siap membantu kapan saja Anda butuhkan.</p>
+            </div>
+            <div class="fitur-item">
+                <h3>💰 Harga Terjangkau</h3>
+                <p>Paket internet sesuai kebutuhan Anda.</p>
+            </div>
+        </div>
+    </section>
